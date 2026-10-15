@@ -4,7 +4,7 @@ A classical OpenCV desktop application that finds tomatoes in an image, a record
 
 Made for CSC 126 (Computer Vision) midterm project.
 
-**Team:** `[Member 1]`, `[Member 2]`, `[Member 3]`
+**Team:** `Lugsanay, John Mark G.`, `Figuron, Sophia Gabriel E.`, `Magbanua, Ace Nathaniel Y.`
 
 ## The problem
 
@@ -72,7 +72,7 @@ On macOS or Linux, activate with `source .venv/bin/activate`.
 python tomato_app.py
 ```
 
-**Packaged `.exe`:** download the zipped `TomatoRipeness` folder from `[ADD LINK: GitHub Release or shared drive]`, unzip it, and double-click `TomatoRipeness.exe` inside the unzipped folder. Do not run it from inside the zip. Windows may show an "unknown publisher" warning: click **More info**, then **Run anyway**.
+**Packaged `.exe`:** download the zipped `TomatoRipeness` folder from `(https://github.com/Mr404Aether/tomato-ripeness-checker/releases/download/v1.0/TomatoRipeness.zip)`, unzip it, and double-click `TomatoRipeness.exe` inside the unzipped folder. Do not run it from inside the zip. Windows may show an "unknown publisher" warning: click **More info**, then **Run anyway**.
 
 **Simple OpenCV-window version:**
 
