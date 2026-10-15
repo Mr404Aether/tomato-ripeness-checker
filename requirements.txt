@@ -1,0 +1,7 @@
+# Tomato Ripeness Checker dependencies.
+# Install with:  python -m pip install -r requirements.txt
+# Use opencv-python (NOT opencv-python-headless): the headless build cannot show windows.
+# Tkinter is part of Python's standard library on Windows and needs no install.
+# To lock the exact versions you tested with, run  python -m pip freeze  and copy the lines for these two packages.
+opencv-python>=5.0
+numpy>=1.26
